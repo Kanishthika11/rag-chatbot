@@ -1,0 +1,1294 @@
+Circular No. 246/03/2025-GST 
+F. No. CBIC-20001/14/2024-GST 
+Government of India 
+Ministry of Finance 
+Department of Revenue 
+Central Board of Indirect Taxes and Customs 
+GST Policy Wing 
+***** 
+To,  
+North Block New Delhi,  
+Dated the  30th January, 2025 
+All the Principal Chief Commissioners/ Chief Commissioners 
+All the Principal Directors General/ Directors General  
+Madam/Sir, 
+Subject: Clarification on applicability of late fee for delay in furnishing of 
+FORM GSTR-9C- reg. 
+Representations have been received seeking clarification regarding levy of late fee 
+payable for delay in furnishing of reconciliation statement in FORM GSTR-9C. It has been 
+requested to clarify whether late fee under section 47 of Central Goods and Services Tax Act, 
+2017 (hereinafter referred to as the “CGST Act”) will be leviable where reconciliation 
+statement in FORM GSTR-9C is not furnished by the registered person alongwith the annual 
+return in FORM GSTR-9 but is filed subsequently beyond the due date of furnishing of 
+annual return.  
+2. 
+In order to ensure uniformity in the implementation of the provisions of law across the 
+field formations, the Board, in exercise of its powers conferred by sub-section (1) of section 
+168 of the CGST Act, hereby clarifies the issues as below. 
+3. 
+Prior to 01.08.2021, sub-section (2) of section 44 of CGST Act provided that a 
+registered person who is required to get his accounts audited in accordance with the 
+provisions of sub-section (5) of section 35 of the CGST Act shall furnish the annual return 
+under sub-section (1) of the said section along with a copy of the audited annual 
+accounts and a reconciliation statement. From 01.08.2021 onwards, with the omission of 
+Page 1 of 4 
+the requirement of getting accounts audited in accordance with the provisions of sub-section 
+(5) of section 35 of the CGST Act,  sub-section (1) of section 44 of CGST Act provides for 
+furnishing of annual return which may include a self-certified reconciliation statement, 
+reconciling the value of supplies declared in the return furnished for the financial year, with 
+the audited annual financial statement for every financial year electronically, within such 
+time and in such form and in such manner as may be prescribed. Further, before 01.08.2021, 
+sub-rule (3) of rule 80 of Central Goods and Services Tax Rules, 2017 (hereinafter referred to 
+as the “CGST Rules”) provided that accounts shall be audited as per sub-section (5) of 
+section 35 of the CGST Act in case the aggregate turnover of a registered person exceeded 
+two crore rupees in a financial year and such taxpayer shall furnish a copy of audited annual 
+accounts and a reconciliation statement, duly certified, in FORM GSTR-9C. From 
+01.08.2021 onwards, sub-rule (3) of rule 80 of CGST Rules provides that taxpayer with 
+aggregate turnover during a financial year exceeding five crore rupees, shall furnish a self
+certified reconciliation statement as specified under section 44 of the CGST Act in FORM 
+GSTR-9C along with the annual return in FORM GSTR-9 on or before the thirty-first day of 
+December following the end of such financial year.  
+3.1 
+Therefore, on a combined reading of section 44 of CGST Act with rule 80 of the 
+CGST Rules, it can be concluded that both pre and post amendment, the provisions mandated 
+that registered persons required to furnish an annual return in FORM GSTR-9 for a financial 
+year shall also furnish along with it, a duly certified or self-certified reconciliation statement 
+in FORM GSTR-9C, which reconciles the value of supplies declared in FORM GSTR-9 
+furnished for the said financial year with the audited annual financial statement. It is also 
+mentioned that a reconciliation statement in FORM GSTR-9C is required to be filed only if 
+the aggregate turnover of the said registered person during a financial year exceeds the 
+specified threshold limit.  
+3.2 
+Sub-section (2) of section 47 of the CGST Act provides for a levy of a late fee for 
+failure to furnish the return under section 44 of the CGST Act by its due date, which is to be 
+computed at the specified rate, for each day for which such failure continues, subject to a 
+maximum amount. As per the discussions above, in cases where reconciliation statement in 
+FORM GSTR-9C is not required to be furnished, annual return under section 44 of CGST 
+Act consists only of FORM GSTR-9 and in cases where a reconciliation statement in FORM 
+GSTR-9C is required to be furnished, the annual return under section 44 of CGST Act 
+Page 2 of 4 
+consists of the return in FORM GSTR-9 along with a reconciliation statement in FORM 
+GSTR-9C. Therefore, in cases where the reconciliation statement in FORM GSTR-9C is 
+required to be furnished along with the annual return in FORM GSTR-9, the furnishing of 
+annual return under section 44 of the CGST Act, may not be said to be complete, unless both 
+return in FORM GSTR-9 and reconciliation statement in FORM GSTR-9C are furnished. If 
+only return in FORM GSTR-9 is furnished and reconciliation statement in FORM GSTR-9C 
+is required but not furnished, annual return under section 44 of CGST Act cannot be said to 
+have been furnished.  
+3.3 
+In view of the above, it is clarified that late fee under sub-section (2) of section 47 of 
+the CGST Act, is leviable for the delay in furnishing of complete annual return under section 
+44 of the CGST Act, i.e. both FORM GSTR-9 and FORM GSTR-9C (where FORM GSTR
+9C is also required to be furnished) and the late fee shall be payable for the period from the 
+due date of furnishing of the said annual return upto the date of furnishing of the complete 
+annual return i.e. FORM GSTR-9 and FORM GSTR-9C. It is also to be noted that late fee is 
+not separately leviable for delayed furnishing of FORM GSTR-9 and delayed furnishing of 
+FORM GSTR-9C, but has to be calculated for the period from the due date of furnishing of 
+annual return under section 44 of the CGST Act till the date of furnishing of complete annual 
+return i.e.: 
+i.  
+in cases where FORM GSTR-9C is not required to be furnished, the date of 
+furnishing of FORM GSTR-9; 
+ii. in cases where FORM GSTR-9C is required to be furnished along with FORM 
+GSTR-9, 
+a. 
+the date of furnishing of FORM GSTR-9, if FORM GSTR-9C is 
+furnished alongwith FORM GSTR-9; or 
+b. 
+the date of furnishing of FORM GSTR-9C, if FORM GSTR-9C is 
+furnished subsequent to furnishing of FORM GSTR-9. 
+4. 
+It is further mentioned that vide notification No. 08/2025-Central Tax dated 
+23.01.2025, the late fee in respect of delayed filing of complete annual return for any 
+financial year upto FY 2022-23 has been waived, which is in excess of the late fee payable 
+under sub-section (2) of section 47 of CGST Act upto the date of furnishing of return in 
+Page 3 of 4 
+FORM GSTR-9 for the said financial year, if the reconciliation statement in FORM GSTR
+9C is furnished on or before 31st March 2025. Accordingly, in cases where reconciliation 
+statement in FORM GSTR-9C was required to be furnished along with the return in FORM 
+GSTR-9, but was not furnished so for any financial years upto FY 2022-23, and has been 
+furnished subsequently on or before 31st March, 2025, then no additional late fee shall be 
+payable for delayed furnishing of FORM GSTR-9C which is in excess of the late fee payable 
+under section 47 upto the date of furnishing FORM GSTR-9 for the said financial year. 
+Further, no refund shall be admissible in respect of any amount of late fee already paid in 
+respect of delayed furnishing of FORM GSTR-9C for the said financial years.  
+5. 
+It is requested that suitable trade notices may be issued to publicize the contents of 
+this Circular.  
+6. 
+Difficulty, if any, in the implementation of this Circular may be brought to the notice 
+of the Board.  
+Yours faithfully, 
+Gaurav Singh 
+Commissioner (GST) 
+Page 4 of 4 
+
+
+GST Rates in India 2026: Updated List of GST Tax Slabs & Item-Wise Rates
+By Prajwal Magaji
+ | 
+
+Updated on: Feb 20th, 2026
+
+ | 
+
+39 min read
+
+Switch Language
+
+Goods and Services Tax (GST) rates in India are crucial for every segment of the economy. Every time the GST Council meets, Indian enterprises and consumers alike are watching out for the next set of GST rate changes. India’s GST regime is undergoing a landmark transformation with the 56th GST Council meeting unveiling GST 2.0 - next-generation reforms simplifying tax slabs to 5%, 18%, and 40%. Effective from September 22, 2025, these reforms aim to ease compliance, boost consumption, and fuel economic growth.
+
+Key Takeaways
+
+The 56th GST Council meeting unveiled a simplified GST 2.0 regime, reducing slabs to 5%, 18%, and 40%, effective from September 22, 2025, to streamline compliance and spur economic growth.​
+Essential items, including dairy products, 33 lifesaving drugs, and educational materials, are now at a nil GST rate, while individual health/life insurance is exempted.​
+Daily essentials, agricultural goods, and healthcare equipment were moved to the 5% GST slab, and electronics like small cars, motorcycles, and appliances now attract 18% GST.​
+Sin goods such as pan masala, aerated and caffeinated beverages, and luxury vehicles face a steep GST rate hike to 40%.​
+All these GST rate changes, barring tobacco products, are effective from September 22, 2025, with comprehensive notifications aligning rules, exemptions, and refund mechanisms to council decisions.
+This GST rates in India 2026 guide breaks down GST rate structures, latest changes, and item-wise tax lists to help you stay informed and compliant. 
+
+GST Rate Meaning 
+GST rate in India means a tax percentage applied on the sale of goods or services. Therefore, GST rate is prevalent under the CGST, SGST and IGST Acts. CGST GST rate and SGST GST rate would both be half of IGST GST rate. 
+
+In simple words, every business registered under GST must raise invoices with GST amounts charged on the taxable supply value. These GST amounts are derived by multiplying a tax percentage with taxable supply value. Such as percentage rate refers to the GST rate. For instance, in the example where GST of Rs.1,800 is charged on taxable value of Rs.10,000. Here, 18% is the GST rate. 
+
+CFO’s AI Playbook for Tax Compliance
+Cut notices, speed reconciliations, tighten controls.
+Download the Checklist
+Revised GST Rates (Effective from September 22, 2025)
+
+The next gen GST reforms represent the most comprehensive GST rate overhaul since the introduction of GST, directly impacting financial strategies, cash flows, and competitive positioning.
+
+GST Rate Cuts -
+
+Category
+
+Items
+
+Old Rate (%)
+
+New Rate (%)
+
+Daily Essentials
+
+Hair Oil, Shampoo, Toothpaste, Toilet Soap Bar, Tooth Brushes, Shaving Cream
+
+18
+
+5
+
+Butter, Ghee, Cheese & Dairy Spreads
+
+12
+
+5
+
+Pre-packaged Namkeens, Bhujia & Mixtures
+
+12
+
+5
+
+Utensils
+
+12
+
+5
+
+Feeding Bottles, Napkins for Babies & Clinical Diapers
+
+12
+
+5
+
+Sewing Machines & Parts
+
+12
+
+5
+
+Uplifting Farmers & Agriculture
+
+Tractor Tyres & Parts
+
+18
+
+5
+
+Tractors
+
+12
+
+5
+
+Specified 12 bio-pesticides and micro-nutrients
+
+12
+
+5
+
+Drip Irrigation System & Sprinklers
+
+12
+
+5
+
+Agricultural, Horticultural or Forestry Machines (Soil Preparation, Cultivation, etc.)
+
+12
+
+5
+
+Healthcare Sector
+
+Individual Health & Life Insurance
+
+18
+
+Nil
+
+Thermometer
+
+18
+
+5
+
+Medical Grade Oxygen
+
+12
+
+5
+
+All Diagnostic Kits & Reagents
+
+12
+
+5
+
+Glucometer & Test Strips
+
+12
+
+5
+
+Corrective Spectacles
+
+12
+
+5
+
+33 drugs and medicines, listed in the press release
+
+12
+
+Nil
+
+Agalsidase Beta, Imiglucerase and Eptacog alfa activated recombinant coagulation factor VIIa drugs
+
+5
+
+Nil
+
+Drugs and medicines such as Faricimab, Pertuzumab, Fluticasone Furoate + Umeclidinium + Vilanterol FF/UMEC/VI, Ocrelizumab, and Brentuximab Vedotin
+
+12
+
+5
+
+Automobiles
+
+Petrol & Petrol Hybrid, LPG, CNG Cars (≤1200cc & ≤4000mm)
+
+28
+
+18
+
+Diesel & Diesel Hybrid Cars (≤1500cc & ≤4000mm)
+
+28
+
+18
+
+Three wheelers
+
+28
+
+18
+
+Motorcycles (≤350cc)
+
+28
+
+18
+
+Motor Vehicles for the transport of goods
+
+28
+
+18
+
+Education
+
+Maps, Charts & Globes
+
+12
+
+Nil
+
+Pencils, Sharpeners, Crayons & Pastels
+
+12
+
+Nil
+
+Exercise Books & Notebooks
+
+12
+
+Nil
+
+Eraser
+
+5
+
+Nil
+
+Electronic Appliances
+
+Air Conditioners
+
+28
+
+18
+
+Television (above 32") (inc. LED & LCD TVs)
+
+28
+
+18
+
+Monitors & Projectors
+
+28
+
+18
+
+Dish Washing Machines
+
+28
+
+18
+
+GST Rate Hikes -
+
+Category
+
+Item description
+
+Old Rate (%)
+
+New Rate (%)
+
+Mining
+
+Coal, lignite, peat 
+
+5 
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sin goods
+
+tobacco/ pan masala*
+
+28
+
+40 
+
+Aerated waters 
+
+28 
+
+40 
+
+Caffeinated beverages
+
+28 
+
+40 
+
+Carbonated beverages of fruit drinks / with fruit juice 
+
+28 
+
+40 
+
+Other non‑alcoholic beverages 
+
+18 
+
+40 
+
+Motor cars and larger hybrids (beyond small‑car thresholds) 
+
+28 
+
+40 
+
+Motorcycles exceeding 350cc 
+
+28 
+
+40 
+
+Aircraft for personal use 
+
+28 
+
+40 
+
+Yachts and vessels for pleasure/sports 
+
+28 
+
+40
+
+Smoking pipes and cigarette/cigar holders 
+
+28 
+
+40 
+
+Revolvers & pistols 
+
+28 
+
+40 
+
+Admission to casinos, race clubs, and sporting events like IPL 
+
+28% with ITC 
+
+40% with ITC 
+
+Licensing of bookmakers by race clubs 
+
+28% with ITC 
+
+40% with ITC 
+
+Specified actionable claims (betting, casinos, gambling, horse racing, lottery, online money gaming) 
+
+28% with ITC 
+
+40% with ITC 
+
+Leasing/rental without operator of goods attracting 40% GST 
+
+28% with ITC 
+
+40% with ITC 
+
+Paper sector
+
+Dissolving‑grade chemical wood pulp 
+
+12 
+
+18
+
+Various papers/paperboards, other than exercise‑book paper
+
+12 
+
+18 
+
+Textiles
+
+Apparel/Made‑ups > Rs 2,500 per piece 
+
+12 
+
+18 
+
+Quilted/cotton quilts and quilted products more than Rs.2,500 per piece 
+
+12 
+
+18 
+
+* To come into effect at a later date (not from 22nd Sept, 2025) through a notification, after the loan and interest obligations under the compensation cess are discharged. 
+
+Types of GST Rates and GST Rate Structure in India
+The GST rate structure in India has been rationalized following the 56th GST Council meeting, introducing GST 2.0 reforms. The revised primary GST rates now consist mainly of two slabs: 5% and 18%, replacing the earlier 0%, 5%, 12%, 18%, and 28% slabs. A higher 40% rate is applied to select luxury and sin goods, while a few niche rates like 3% and 0.25% continue to exist. 
+
+Also, the composition taxable persons must pay GST at lower or nominal rates such as 1.5% or 5% or 6% on their turnover. There is a concept of TDS and TCS under GST as well, whose rates are 2% and 0.5% respectively (prior to 9th July 2024, it was 1%).
+
+The GST rate structure for some of the commonly-used consumable products is given in the below table. For more items, type in the item you wish to know the GST rate of by visiting our HSN code & GST rates finder.
+
+
+List of Items with 0% GST Rate (Nil Rated/Exempt Supplies)
+Category
+
+Description
+
+Fresh Produce
+
+Fresh and unprocessed vegetables (potatoes, tomatoes, onions, garlic, carrots, cucumbers, lettuce, cabbage, etc.); fresh fruits (bananas, apples, mangoes, oranges, grapes, berries, etc.); fresh nuts (coconuts, almonds, cashews, walnuts, etc.); fresh ginger and turmeric; tender coconut water (non-packaged); prasadam.
+
+Processed & Preserved Foods
+
+Frozen or dried vegetables; unroasted coffee beans; unprocessed tea leaves; seeds of seed quality.
+
+Dairy & Eggs
+
+Fresh, pasteurised, and UHT milk; curd; lassi; buttermilk (non-packaged); paneer/chena; eggs (fresh, preserved, or cooked); non-packaged honey.
+
+Grains, Cereals & Staples
+
+Non-packaged cereals, flours, and products (wheat, rice, millet, maize, oats, barley, sorghum, etc.); pulse and potato flours; millet flour (≥70%, non-packaged); puffed, beaten, or parched rice (muri, chira, khoi); murki (non-packaged); pappad; bread; roti; chapathi; paratha; pizza bread; khakhra.
+
+Water & Beverages
+
+Plain (non-aerated) water; neera; date and palm neera.
+
+Animal Products & By-Products
+
+Live animals (asses, mules, cattle, swine, poultry, etc.); meat (fresh or chilled); non-packaged meat products; fish and aquatic animals (fresh or chilled); non-packaged fish/aquatic products; fish and shrimp seeds; human hair (unworked or waste); animal bones, horn-cores, bone powder; hoof/horn meal; hooves, claws, nails, beaks, antlers; semen (including frozen).
+
+Animal Feed & Plant Materials
+
+Animal feed (aquatic, poultry, cattle, hay) and by-products (de-oiled bran, cotton seed cake, pulse husks); dicalcium phosphate (feed grade – IS 5470:2002); fresh produce (hop cones, medicinal plants, seaweeds, forage); plant materials (sal/betel leaves, coconut shell, broom materials); lac and shellac.
+
+Textiles & Fiber Products
+
+Silkworm cocoons; raw silk; silk waste; khadi fabric (KVIC); wool; raw or waste animal hair; jute fibres; coconut coir fibre and coir pith (unlabeled); cotton waste; Gandhi Topi; khadi yarn.
+
+Personal Care & Cosmetics
+
+Kajal; kumkum; bindi; sindur; alta.
+
+Handcrafted & Artisanal Items
+
+Earthen pots, clay lamps, and idols (clay); glass bangles (non-precious); agricultural hand tools; pencil sharpeners; brooms (sarkanda, vegetable twig); pencils, crayons, pastels, chalk, slate pencils, slates; indigenous handmade musical instruments; khadi dona; sal or sisal leaves.
+
+Stationery & Paper Products
+
+Printed or Braille books; newspapers; maps and globes; children’s picture books; printed music; postal items; exercise books; rupee notes; duty credit scrips; judicial stamps.
+
+Healthcare & Wellness
+
+Medicines and drugs (Annexure I list); blood and its components; contraceptives and condoms; hearing aids and parts; sanitary towels, napkins, and tampons.
+
+Miscellaneous Items
+
+Indian national flag; human hair (dressed, thinned, bleached, worked); salt (table, pure sodium chloride, sea water); uranium ore concentrate; electrical energy; non-government lottery supplies; government-to-government grant goods; puja samagri (rudraksha, sacred thread, wooden khadau, panchamrit, vibhuti, honey, diya wick, roli, kalava, chandan tika); government auction gifts; rakhi (non-precious); waste (municipal, sewage, clinical); plastic/lac/shellac bangles; erasers; passenger baggage; spacecraft, satellites, launch vehicles; firewood, charcoal; deities (stone, marble, wood).
+
+List of Items Taxed at 5% GST Rate
+Category
+
+Description
+
+Processed & Preserved Foods
+
+Dried herbs, roots, jaribooti; dried fruits and nuts (desiccated coconuts, dried cashews, raisins); roasted coffee and processed tea; spices (pepper, vanilla, cinnamon, cloves, nutmeg, cardamom, saffron); preserved vegetables and fruits (with vinegar or sugar); jams, jellies, marmalades; roasted nuts and seeds; fruit and vegetable juices; coffee and tea extracts; yeasts and baking powders; sauces and condiments; soups and broths; ice cream; soya bari, pulse bari; batters; chutney powder; sweetmeats; namkeens, bhujia, mixtures; diabetic foods; other prepared foods.
+
+Dairy & Fats
+
+Condensed and sweetened milk; yoghurt; fermented or acidified milk; whey and other dairy products; butter; ghee; dairy spreads; cheese (excluding paneer); eggs (non-shell, dried, cooked); packaged honey; animal fats (lard, beef, sheep, goat, fish, marine); wool grease; lanolin.
+
+Oils & Waxes
+
+All types of oils (soyabean, groundnut, olive, palm, sunflower, coconut, rape/mustard, jojoba); hydrogenated and chemically modified oils; margarine; linoxyn; edible oil mixtures; glycerol; vegetable waxes; beeswax; edible insect-based oils and fats.
+
+Meat & Fish Products
+
+Live horses; pre-packaged or labelled meat and fish products; sausages; preserved meat and offal; caviar; crustaceans and molluscs (prepared); meat and fish extracts and juices; fish soluble paste.
+
+Animal By-Products
+
+Pig, hog, and boar bristles; badger and brush-making hair; animal bone and horn-core materials (non-fresh, pre-packaged/labelled); bird skins and feathers (cleaned or disinfected); ivory; tortoise-shell; horns and antlers; coral and shell materials; ambergris; castoreum; civet; musk; bile; cantharides; pharmaceutical glands; other unspecified animal products.
+
+Sugar & Confectionery
+
+Cane and beet sugar; refined sugar; jaggery; khandsari (packaged); rab; mishri; gajak; molasses; sugar syrups; sugar confectionery; boiled candies; cocoa and chocolate (beans, shells, paste, butter, powder); cocoa-containing food products.
+
+Cereals & Starches
+
+Packaged millet flour (≥70%); bread and pastry mixes; doughs; seviyyan; pasta, noodles, macaroni; tapioca, sabudana; corn flakes, bulgar wheat, cereal flakes; pastries, cakes, biscuits, rusks, toasted bread; packaged cereals, flours, and starches; groats, suji, dalia, malt, gluten.
+
+Beverages
+
+Mineral water (unsweetened); plant-based milk drinks; soya milk; fruit juice and pulp drinks (non-carbonated); milk-based beverages; ethyl alcohol (for OMC blending).
+
+Apparel & Clothing
+
+Knitted or crocheted apparel and accessories (≤Rs 2500 per piece); non-knitted apparel (≤Rs 2500 per piece); made-up textile sets (≤Rs 2500 per piece); worn clothing, rags, and footwear (≤Rs 2500 per pair); textile caps, hats, umbrellas, walking sticks, whips, crops, and accessories.
+
+Textiles & Fibers
+
+Silk, wool, cotton, plant fibre, and manmade yarns and fabrics; synthetic and technical textiles; cordage, ropes, carpets, rugs, embroidery, zari, lace, and coated or rubberised fabrics; materials for industrial and technical textile use.
+
+Metals & Metal Products
+
+Metal boxes, utensils, milk cans, nails, sewing needles, kerosene stoves and burners, solar cookers, household articles (iron, steel, copper, aluminium, brass), bells, gongs, metal ornaments and statuettes, picture frames, mirrors, and bidriware.
+
+Stone & Stone Products
+
+Sand lime bricks; stone inlay crafts; stone ornaments (statues, vases, bowls, cups, ashtrays, paperweights).
+
+Ceramics & Pottery
+
+Ceramic and porcelain pots, jars, containers; tableware, kitchenware, and ornamental household or toilet articles.
+
+Minerals & Raw Materials
+
+Natural and unprocessed minerals (iron pyrites, sulphur, graphite, quartz, clays, phosphates, gypsum, mica, talc, feldspar, ores, slag, fly ash, etc.).
+
+Fuels & Energy
+
+Bio-gas; coke and semi-coke; kerosene (PDS), bunker fuel; LPG for domestic and non-domestic exempt consumers; hydrogen and fuel-cell vehicles; EV chargers; other biofuels.
+
+Chemicals – Inorganic
+
+Menthol (natural), enriched boron and KBF₄, acids (sulphuric, nitric, phosphoric), ammonia, oxidisers, nuclear-grade materials, medical oxygen, hydrogen peroxide, air, fertiliser chemicals, trace micronutrients.
+
+Chemicals – Organic
+
+Gibberellic acid; extracts from menthol and its derivatives (crystals, peppermint, spearmint oils, DTMO, DMO).
+
+Pharmaceuticals & Medical Supplies
+
+Insulin, drugs, and vaccines; diagnostic kits; ORS; medicaments for human and veterinary use (including Ayurvedic, Unani, etc.); dressings, sutures, and medical plasters.
+
+Medical Devices & Equipment
+
+Stents, dialysis units, glucometers, thermometers, orthopaedic and prosthetic aids, X-ray machines, surgical instruments, assistive devices, and medical apparatus for diagnostics or therapy.
+
+Agricultural & Farming Equipment
+
+Tractor engines, pumps, sprinklers, irrigation systems, soil machinery, harvesting tools, bee-keeping and poultry gear, solar and wind energy units, biogas and composting systems, photovoltaic cells, and accessories.
+
+Transport & Vehicles
+
+Aircraft, helicopters, spacecraft, ships, bicycles, tricycles, tractors, trailers, non-motorised vehicles, and parts of aircraft, ships, and transport vehicles.
+
+Furniture & Furnishings
+
+Bamboo, cane, and rattan furniture; coir products; quilts (≤Rs 2500); seats, lanterns, lamps, and glass chimneys.
+
+Toys & Games
+
+Toy balloons, tricycles, scooters, pedal cars, cards, chess, carrom, ludo, board games, sports goods, fishing tackle.
+
+Art & Collectibles
+
+Paintings, collages, mosaics, original prints and sculptures, stamps, first-day covers, collections (zoological, botanical, historical), and antiques (over 100 years old).
+
+Miscellaneous & Specialty Items
+
+Worked ivory, bone, coral, mother of pearl; broomsticks; toothbrushes; fasteners; combs; defence/police equipment; matches and safety matches.
+
+Raw & Processed Materials
+
+Non-seed quality seeds; oil seed flours; gums and resins; asafoetida, agar-agar; plaiting materials; vegetable-based products (cotton linters, soap nuts, rudraksha, tendu leaves, mehendi paste); animal feed by-products.
+
+Leather & Leather Goods
+
+Raw hides and skins (fresh, salted, dried, pickled); tanned and crust leather (prepared or metallised); leather goods (bags, gloves); leather dust, powder, and flour.
+
+Rubber & Plastics
+
+Feeding bottles, biodegradable bags, natural rubber products, scrap and waste, latex thread, tyres and tubes (tractor, bicycle, aircraft), bottle nipples, gloves, rubber bands.
+
+Photography & Film
+
+Medical X-ray plates and films; developed photographic and cinematographic films (non-feature).
+
+Personal Care & Cosmetics
+
+Talcum and face powder, hair oil, shampoo, toothpaste, shaving products, toilet soap.
+
+Bio-Based Products & Pesticides
+
+Bio-pesticides (Bacillus, Trichoderma, neem); silicon wafers; biodiesel; fertilisers; tanning extracts; agarbatti and incense; natural glues and adhesives.
+
+Religious & Cultural Items
+
+Rosaries, prayer beads, hawan samagri, biomass briquettes, biofuel pellets.
+
+Wood & Paper Products
+
+Particle boards, bamboo flooring, barrels, basketware, wooden idols and case goods, cork, straw manufactures, pulp, newsprint, cartons, paper products, roofing materials, kites, brochures, leaflets.
+
+Tobacco
+
+Tobacco leaves.
+
+List of Items Taxed at 18% GST Rate
+Category
+
+Description
+
+Apparel & Clothing (>Rs 2500)
+
+Apparel and accessories (knitted/crocheted or non-knitted, >Rs 2500 per piece); made-up textile sets (>Rs 2500 per piece); flexible bulk containers; waterproof footwear (rubber/plastic uppers); footwear with rubber, plastic, leather, or textile uppers; other footwear and parts (uppers, in-soles, heel cushions, gaiters, leggings).
+
+Hats & Headgear
+
+Hat forms and hoods (felt or plaited, unblocked, untrimmed); hats and headgear (plaited or assembled, lined or trimmed); knitted, crocheted, or felt/lace headgear; headbands, linings, hat foundations, peaks, and chinstraps.
+
+Hair & Wig Products
+
+Artificial flowers and foliage; wool or animal hair prepared for wigs; wigs, false beards, eyelashes, eyebrows, hair switches (human/animal/textile); unspecified hair articles.
+
+Raw & Semi-Finished Metals
+
+Pig iron, ferro-alloys, direct reduced iron, ingots, semi-finished metal products, metal scrap, granules, and powders.
+
+Rolled & Formed Metal Products
+
+Flat-rolled products; bars, rods, angles, shapes, sections, and wire made from iron, steel, stainless steel, alloy steel, copper, or aluminium.
+
+Tubes, Pipes & Fittings
+
+Tubes, pipes, and hollow profiles with fittings (couplings, elbows, sleeves) for all base metals.
+
+Structural & Large Containers
+
+Sheet piling, track materials, bridges, towers, frameworks, tanks (above 300L), containers, drums, casks, cans (≤300L), and gas cylinders.
+
+Wires & Cables
+
+Stranded wire, ropes, cables, plaited bands, barbed and twisted wire, wire cloth, grills, netting, fencing, and expanded metal.
+
+Fasteners & Small Metal Parts
+
+Chains, anchors, nails, screws, bolts, nuts, rivets, washers, cotter pins, staples, and springs.
+
+Hand Tools & Cutlery
+
+Hand tools (saws, files, pliers, spanners, wrenches); clamps; anvils; tool sets and dies; knives, razors, blades, scissors, shears, hair clippers, manicure/pedicure sets, spoons, forks, ladles, and table cutlery.
+
+Household Appliances & Fixtures
+
+Stoves, cookers, barbecues, radiators, air heaters, hot air distributors, pot scourers, sanitary ware, and cast iron articles.
+
+Metal Hardware & Fittings
+
+Locks, padlocks, keys, clasps, furniture fittings, hinges, brackets, door closers, safes, filing cabinets, stationery clips and fittings, metal seals, stoppers, caps, nameplates, letterings, electrodes, and flux products.
+
+Dyes, Pigments & Paints
+
+Dyes, pigments, paints, varnishes, printing and writing inks, pesticides (non-bio), solvents, thinners, extinguishing compounds, oils, fragrances, additives, biodiesel (non-OMC).
+
+Personal Care & Beauty
+
+Perfumes, cosmetic and skincare products, deodorants, bath and hair products (excluding specified oils and shampoos), detergents, polishes, creams, and dental wax compounds.
+
+Pharmaceuticals & Protein Products
+
+Casein and protein derivatives, glues, enzymes, peptones, culture media, albumins, whey proteins for industrial and pharmaceutical use.
+
+Ceramics – Refractory & Technical
+
+Refractory ceramic materials (bricks, nozzles, crucibles, lab ware) made of siliceous, alumina, or similar compositions.
+
+Ceramics – Building & Structural
+
+Tiles, chimney pots, pipes, conduits, architectural ornaments, gutter fittings, paving blocks, hearth, and wall coverings.
+
+Ceramics – Sanitary & Domestic
+
+Ceramic fixtures—sinks, basins, baths, urinals, bidets, troughs, and other domestic containers.
+
+Stone & Aggregates
+
+Building and decorative stones, flagstones, mosaic cubes, colored granules, slates, millstones, grinding stones, and abrasives.
+
+Insulation & Composites
+
+Rock wool, expanded clays, asphalt/bitumen materials, plaster and cement-bound fiber panels, and composite boards.
+
+Cement & Concrete
+
+Cement and concrete articles (reinforced/unreinforced), asbestos-cement goods, fibre cement, friction materials, mica-based and carbon products.
+
+Electrical & Electronic Motors
+
+Motors, generators, transformers, electromagnets, magnetic devices, and all related parts and batteries (primary and storage).
+
+Home & Industrial Appliances
+
+Household and industrial electrical appliances—vacuum cleaners, heaters, ignitions, lighting, wipers, furnaces, ovens, welding machines, sound and transmission devices.
+
+Audio/Visual & Recording
+
+TVs, cameras, recorders, monitors, projectors, microphones, speakers, transmitters, radars, CCTV systems, alarms.
+
+Electrical Components & Wiring
+
+Electrical circuits, switches, fuses, lamps, semiconductors, integrated circuits, LEDs, wires, insulators, fittings, and e-waste.
+
+Explosives & Propellants
+
+Propellant powders, explosives, detonators, fireworks, pyrotechnics, flares, and lighter fuels.
+
+Food & Spirits
+
+Artificial honey, ethyl alcohol (non-OMC), industrial spirits, vinegar, and acetic acid substitutes.
+
+Fuel & Petroleum Products
+
+Coal, lignite, petroleum oils, tar, gasoline, propane, butane, waxes, coke, bitumen, shale, tar sands, and fuel residues.
+
+Chemicals – Inorganic
+
+All inorganic chemicals not otherwise covered under reduced GST schedules.
+
+Chemicals – Organic
+
+All organic chemicals other than gibberellic acid and natural menthol products.
+
+Glass – Raw & Sheets
+
+Unworked glass; rods, tubes, sheets (cast, rolled, drawn, float, or polished).
+
+Glass – Structural
+
+Safety and insulating glass, mosaics, leaded lights, foam panels.
+
+Glass – Containers & Industrial
+
+Bottles, jars, flasks, closures, lamp bulbs, and cathode ray components.
+
+Glass – Mirrors & Optical
+
+Mirrors (framed or unframed), optical glass, lenses, watch glasses, and signalling glass.
+
+Glass – Decorative & Laboratory
+
+Domestic, decorative, and laboratory glassware; imitation pearls; glass ornaments; fibres and woven glass articles.
+
+Furniture & Furnishings (General)
+
+Furniture (residential, medical, or industrial), bedding, lighting fixtures, prefabricated buildings.
+
+Toys & Games (Electronic & Entertainment)
+
+Electronic toys, consoles, gaming and amusement equipment, sports and exercise goods, circus or fairground apparatus.
+
+Writing & Office
+
+Pens, brushes, mops, stationery, markers, stamps, ink pads, office and cleaning sets.
+
+Miscellaneous Specialty Items
+
+Lighters, spray containers, powder puffs, mannequins, automata, tripods, and novelty items.
+
+Machinery – Engine & Power
+
+Engines, turbines, reactors, boilers, pumps, compressors, air and vacuum systems.
+
+Machinery – Heating & Fluid
+
+Air conditioners, refrigeration, ovens, filters, industrial washing and packaging machines.
+
+Machinery – Material Handling & Processing
+
+Cranes, lifts, conveyors, processing, milling, food machinery, and related mechanical systems.
+
+Machinery – Textile & Specialized
+
+Textile, printing, metal-working, and plastic machinery; CNC tools; vending machines; data processing and mineral machinery.
+
+Machinery – Components & Systems
+
+Bearings, shafts, gears, gaskets, semiconductor equipment, additive manufacturing systems, and e-waste.
+
+Leather Goods – Bags & Cases
+
+Travel bags, cases, wallets, purses, holsters, tool bags, and other leather containers.
+
+Leather Goods – Apparel & Other Articles
+
+Leather clothing, gloves, belts, and miscellaneous leather accessories.
+
+Furs & Fur Products
+
+Raw, tanned, or dressed furskins; fur apparel and accessories; artificial furs.
+
+Organic Materials (Gut, Bladder, Tendons)
+
+Gut, goldbeater’s skin, bladders, tendons, and related organic materials.
+
+Minerals & Ores
+
+Ores (iron, manganese, copper, aluminium, zinc, lead, etc.), cement, slags, dross, waste ash residues.
+
+Construction & Building
+
+Goods and materials used in building or infrastructure projects, including those supplied under works contracts.
+
+Photography – Unexposed Materials
+
+Photographic plates, films, and paper (sensitized, unexposed); instant print film.
+
+Photography – Exposed & Chemical Products
+
+Developed photographic materials, cinema film, and photographic chemicals.
+
+Plastics – Polymers & Products
+
+Polymers, resins, plastic products, pipes, fittings, sheeting, packaging, kitchenware, and woven/non-woven bags.
+
+Rubber – Synthetic & Compounded
+
+Synthetic and reclaimed rubber, rubber compounds, and powders.
+
+Rubber – Tyres & Tubing
+
+Vulcanized rubber products, conveyor belts, tyres, retreads, tubes, and treads.
+
+Rubber – Apparel & Hygiene
+
+Rubber apparel, gloves, hygienic containers, and ebonite products.
+
+Watches & Clocks
+
+Watches, clocks (all types), time recorders, switches, and precision timers.
+
+Watch/Clock Parts & Cases
+
+Movements, cases, bands, straps, and accessories for watches and clocks.
+
+Musical Instruments & Accessories
+
+Musical instruments (string, wind, percussion, electric), music boxes, tuning accessories, and metronomes.
+
+Weapons & Ammunition
+
+Firearms, explosives, swords, bayonets, grenades, missiles, and weapon components.
+
+Optical & Precision Instruments
+
+Optical instruments (binoculars, microscopes, telescopes, lasers, cameras) and precision lab/measuring equipment.
+
+Measuring & Analysis Instruments
+
+Gauges, thermometers, analyzers, meters, detectors, control and calibration devices, and parts.
+
+Project & Lab Equipment
+
+Industrial project machinery, lab equipment, chemicals, and dutiable specialized apparatus.
+
+Tobacco Products
+
+Cigarette filter rods.
+
+Nicotine Products
+
+Nicotine inhalation and cessation products (patches, oral, transdermal, other).
+
+Rail Transport & Components
+
+Locomotives, rail coaches, wagons, rail parts and fittings, signalling gear, refrigerated transport containers.
+
+Road Vehicles
+
+Vehicles (cars, buses, motorcycles, goods carriers, SPVs, hybrids), chassis, trailers, and parts.
+
+Aircraft & Watercraft
+
+Aircraft, parachutes, aircraft parts, vessels, canoes, boats, and floating structures.
+
+Wood & Wood Products
+
+Rough or shaped wood, plywood, fibre boards, joinery, cork, flooring, framing.
+
+Pulp & Paper Products
+
+Pulp and paper (all grades: tissue, kraft, coated, carbon, cigarette, wallpaper), stationery, printed items, and promotional materials.
+
+List of Items Taxed at 40% GST Rate
+Category
+
+Description
+
+High-Sugar & Carbonated Beverages
+
+Sugared or sweetened aerated waters; flavoured non-alcoholic drinks; other unspecified non-alcoholic beverages; caffeinated beverages; carbonated fruit drinks and fruit juice beverages.
+
+Betting, Casinos & Gaming
+
+Activities including betting, casinos, gambling, horse racing, lotteries, and online gaming (actionable claims).
+
+Firearms – Handguns
+
+Revolvers and pistols.
+
+High-Performance Vehicles
+
+Motorcycles with engine capacity over 350cc; passenger cars excluding specified models; hybrid spark-ignition vehicles with engine over 1200cc or length over 4000mm; hybrid diesel vehicles with engine over 1500cc or length over 4000mm; yachts; pleasure vessels.
+
+List of Items Taxed at Other Niche Rates
+Category
+
+Description
+
+GST Rate
+
+Pan Masala
+
+Pan masala
+
+28%
+
+Tobacco Products
+
+Unmanufactured tobacco, tobacco refuse, cigars, cheroots, cigarillos, cigarettes, manufactured tobacco, reconstituted tobacco, extracts, essences, biris, tobacco/reconstituted tobacco inhalation products (non-combustion), tobacco/nicotine substitute inhalation products (non-combustion)
+
+28%
+
+Precious Metals & Gemstones
+
+Pearls (natural/cultured, unstrung), precious stone dust/powder, silver, silver-plated forms, gold, gold-plated forms, platinum, precious metal clad base metals, precious metal waste/scrap
+
+3%
+
+Jewellery & Articles
+
+Jewellery and parts, goldsmiths'/silversmiths' wares, other precious metal articles, pearl articles, imitation jewellery, coins
+
+3%
+
+Diamonds & Precious Stones
+
+Rough/sawn diamonds, precious stones (non-diamond), semi-precious (unstrung), synthetic/reconstructed stones (unstrung), synthetic diamonds
+
+0.25%
+
+Summary of Notifications Issued to Implement 56th GST Council Recommendations
+To operationalise the rate revisions and procedural relaxations approved in the 56th GST Council meeting, the Government has released a series of GST Notifications. These Notifications amend the relevant rate schedules, input-tax provisions, and refund rules to give legal effect to the Council’s decisions. 
+
+Notification
+
+Description
+
+Summary
+
+09/2025-CTR dated 17th September 2025
+
+Revised tax rates and schedules
+
+Supersedes 01/2017-CTR to notify GST rates on various goods by detailed schedules. This includes major slab restructuring and new product/sector coverage.
+
+Schedule I (5%): Essential goods (food grains, dairy, pulses, spices, medicines, renewable energy)
+
+Schedule II (18%): Processed foods, spirits, cement, ores, sports goods, toys, art, manufactured products
+
+Schedule III (40%): Soft drinks, luxury vehicles, yachts, aircraft, gambling
+
+Schedule IV (3%): Gold/precious metal jewellery, silver coins, handcrafted idols, platinum products, semi-processed gems, handicrafts
+
+Schedule V (0.25%) & Schedule VI (1.5%): Rough diamonds, industrial diamonds, uncut gemstones
+
+Schedule VII (28%): Pan masala, Tobacco, cigarettes
+
+These changes are to be effective from 22nd September 2025
+
+10/2025-CTR dated 17th September 2025
+
+Revised exemption list for goods
+
+Supersedes 02/2017-CTR to update the list of goods exempt from central GST, expands exemptions especially for agricultural, food, health, and education items.
+
+Also, defines terms such as ‘pre-packaged and labelled’, “unit container” and clarifies the scope of items such as the drugs in Annexure I & musical instruments in Annexure II.
+
+This notification is to be effective from 22nd September 2025
+
+11/2025-CTR dated 17th September 2025
+
+GST rate amendment for petroleum and coal bed methane operations
+
+The rate is changed from the earlier 12% to 18%.
+
+This amendment will be effective from 22nd September 2025.
+
+12/2025-CTR dated 17th September 2025
+
+Amendment to used motor vehicles
+
+The notification chnages the reference for used motor vehicles (pertol/ deisel/ SUVs) from the older schedule (Schedule IV of 01/2017) to the updated schedules (Schedule II or III of 09/2025).
+
+This notification is to be effective from 22nd September 2025
+
+13/2025-CTR dated 17th September 2025
+
+Reduced GST rate on handmade items and handicrafts, etc.
+
+Substitutes the previous notification 21/2018-CTR. It replaces the entire GST rate table.
+
+The new rates prescribed are 5% GST for a wide array of handicraft items including woodcraft, embroidery, coir, pottery, glassware, bamboo and cane crafts, paintings, sculptures, etc.
+
+Additionally, silver filigree work, handmade imitation jewellery and natural seed/bead jewellery attract a concessional rate of 3%.
+
+This notification is effective from 22nd September 2025.
+
+14/2025-CTR dated 17th September 2025
+
+GST rate notified for bricks/tiles
+
+Notifies GST at 12% for fly ash bricks, building bricks, fossil bricks, earthen/roofing tiles; clarifies product codes and coverage.
+
+This notification is effective from 22nd September 2025.
+
+15/2025-CTR dated 17th September 2025
+
+Comprehensive service rate changes
+
+Amends the GST rates on various services under the principal Notification 11/2017-CTR, as follows-
+
+1) New rate 18%- Transport services (non-Indian railways container transport, multimodal transport), courier and postal services, local delivery through e-commerce operators, professional and business services, manufacturing job work. (Previously 12% GST).
+
+2) New rate 5%- Tailoring services, job work for food, textiles, printing educational materials, brick manufacturing, handicrafts, beauty and cleaning services.
+
+3) New rate 1.5%- Job work on diamonds.
+
+Tightened rules on input tax credit claims with clear exceptions and illustrations.
+
+This notification is effective from 22nd September 2025
+
+It is also clarified with respect to renting, that ‘premises’ means a place from where hotel accommodation services are being supplied or are to be supplied, with effect from 1st April 2025.
+
+16/2025-CTR dated 17th September 2025
+
+Exemptions to services- Removal of Local delivery by or through ECO & including individual health/life insurance
+
+- Amends the definition of GTA given under the principal Notification 12/2017-CTR to exclude local delivery by or through ECO (e-commerce operator)
+
+- Inserts exemptions for individual health/life insurance & reinsurance
+
+- Clarifies that certain local delivery by or through e-commerce operator are excluded from certain exemptions
+
+- Defines ‘group’ and ‘health insurance business’.
+
+This notification is effective from 22nd September 2025
+
+17/2025-CTR dated 17th September 2025
+
+Reverse charge on local delivery service by ECO
+
+Adds a clause in the principal notification 17/2017-CTR, specifies that the e-commerce operator shall pay GST under RCM on services by way of local delivery except where the person supplying such services through the electronic commerce operator is liable for mandatory GST registration under section 22(1)
+
+This notification is effective from 22nd September 2025
+
+13/2025 dated 17th September 2025
+
+Central Goods and Services Tax (Third Amendment) Rules, 2025
+
+• Rule 31A(2): Valuation factor changed by substituting 128 with 140 (impacts value of supply of lottery).
+
+• Rule 39(1A): Clarifies reverse charge references to CGST Act section 9 and IGST Act section 5(3) and 5(4), effective 1st April 2025.
+
+• Rule 91(2): Provisional refund order in FORM GST RFD-04 within 7 days based on risk; officer may skip provisional refund and proceed under rule 92; no revalidation of RFD-04; effective 1st October 2025.
+
+• Appeals: CGST Rule 110 updated to use new FORM GST APL-02A; new rule 110A enables single-member bench transfers where no question of law; ties to section 109(8) threshold of INR 50 lakh; rule 111 aligned; rule 113(2) introduces summary order FORM GST APL-04A;
+
+• Annual return changes (GSTR-9): New ITC rows (A1, A2, H1, etc.), clearer placement of reclaimed ITC with references to CGST Rules 37, 37A, 38, 39, 42, 43; revised Part V timing notes for FY 2024-25 onward, applicable from date of notifying in official gazatte.
+
+• Reconciliation statement (GSTR-9C): adds fields for supplies covered by section 9(5) of CGST Act; late fee reference aligned to section 47(2); clarifies “payable” vs “paid”, applicable from date of notifying in official gazatte.
+
+• Commencement: Applicable from 22nd September 2025 for all except, unless otherwise stated.
+
+14/2025 dated 17th September 2025
+
+Persons not eligible for provisional refund under section 54(6) of CGST Act
+
+• Provisional refund not allowed under section 54(6) to:
+
+1) any registered person without Aadhaar authentication per rule 10B;
+
+2) persons supplying specified goods: areca nuts (0802 80), pan masala (2106 90 20), tobacco and manufactured tobacco substitutes (Chapter 24), and essential oils (3301).
+
+• Effective from 1st October 2025.
+Frequently Asked Questions
+What is the GST gold rate?
+
+The GST rate on gold jewellery and gold biscuits or in any semi-manufactured form is 3% (IGST or both CGST and SGST 1.5% each) under HSN Chapter 71.
+
+What is the GST rate applicable on mobile?
+
+Currently, the GST rate on mobile phones is 18% under HSN Chapter 3 with HSN code 85171219.
+
+What are the GST rates applicable on goods and services?
+
+0%, 5%, 18% or 40% are the GST rates that can be applicable to goods and services. 3% or 0.25% may be charged for certain supplies such as gold, diamond and precious stones.
+
+What are the correct GST slabs on goods and services?
+
+The GST law defines and classifies goods and services under 0%, 5%, 18% and 40%. However, a few items attract a lower GST rate of 0.25% and 3%. These include gold, diamond, and precious stones.
+
+What are the 3 types of GST?
+
+Presently, there are types of GST – Central Goods and Services Tax (CGST), State Goods and Services Tax (SGST), and Integrated Goods and Services Tax (IGST). While a taxpayer must deposit CGST and SGST for all intrastate transactions, IGST is deposited for imports and interstate transactions.
+
+Who must pay the GST rate?
+
+The supplier of taxable goods and services should charge and collect GST at the specified GST rate from their buyer or customer. Such GST collected must be deposited with the government after availing of the eligible input tax credit on their purchases. It is referred to as the forward charge. In some cases, the GST is paid directly to the government by the buyer or customer on a reverse charge basis.
+
+Is GST payable at the GST rate on all products and services?
+
+No. GST need not be paid on certain items that are exempted from GST. Exempted products include nil-rated, Non-GST and exempted by notification. Further, there are zero-rated products when sold, GST paid, if any, is eligible for a refund.
+
+What is the rate of GST on essential commodities?
+
+GST rate on essential commodities is usually 0% or 5%.
+
+How many GST slabs in India?
+
+There are primarily 4 GST rate slabs in India- 0%, 5%, 18% and 40%.
+
+What is the highest GST rate in India?
+
+The highest GST rate in India is 40%. This applies to sin goods and luxury items.
+
+How GST rates are decided?
+
+GST Rates are decided at the GST Council meetings once the recommendations are tabled before the GST Council by the Fitment committee.
+
+What is nil rated supply in GST?
+
+Nil rated supply in GST implies sale of goods or services on which GST rate is 0%.
+
+What is 0% GST items?
+
+0% GST items are nil rated items under GST on which 0% GST rate applies.
+
+What is 5% GST items?
+
+5% GST items implies the goods or services on which 5% GST rate applies upon sale.
+
+What are the 18% GST items?
+
+18% GST items indicate those items that have a 18% GST rate for their supplies.
+
+What is the GST rate of cement?
+
+A 18% GST rate applies on the sale of cement.
+
+What is the GST rate for hotels?
+
+GST rate on hotels apply as per the hote
